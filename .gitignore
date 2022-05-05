@@ -1,0 +1,9 @@
+build
+dist
+venv
+*.avi
+*.mp4
+*.png
+*.jpg
+*.tar.gz
+*.swp
