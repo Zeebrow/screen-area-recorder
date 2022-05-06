@@ -1,5 +1,6 @@
 build
 dist
+*.spec
 venv
 *.avi
 *.mp4
